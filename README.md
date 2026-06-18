@@ -34,7 +34,8 @@
 #### Ruby Ecosystem
 * **[shared-broker](https://github.com/wesleyskap/shared_broker)** - A high-performance Ruby library designed to simplify asynchronous event-driven messaging and telemetry (observability) in Rails-based microservices.
 * **[vindi-rails](https://github.com/wesleyskap/vindi-rails)** - The core Ruby SDK integration for the Vindi recurring payments API, featuring built-in rate-limiting handling and auto-retry backoff mechanisms.
-* **[vindi-rails-integrations](https://github.com/wesleyskap/vindi-rails-integrations)** - Rails integration extension for Vindi, providing automated ActiveRecord model synchronization, webhook controllers, background jobs, and validation Rake tasks.
+* **[vindi-rails-integrations]
+(https://github.com/wesleyskap/vindi-rails-integrations)** - Rails integration extension for Vindi, providing automated ActiveRecord model synchronization, webhook controllers, background jobs, and validation Rake tasks.
 * **[vindi-rails-engines](https://github.com/wesleyskap/vindi-rails-engines)** - Mounting engine extension providing frontend checkouts, views, and credit card tokenization via Stimulus JS.
 
 #### Go (Golang) Ecosystem
@@ -44,8 +45,7 @@
 ---
 
 ### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleyskap&show_icons=true&theme=nord&count_private=true" alt="Wesley's GitHub Stats" width="48%">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyskap&layout=compact&theme=nord" alt="Top Langs" width="48%">
 </p>
 
