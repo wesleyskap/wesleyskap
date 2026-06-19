@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wesleyskap"><img src="https://img.shields.io/github/followers/wesleyskap?style=flat-square&logo=github&color=333" alt="GitHub Followers"></a>
   <a href="https://linkedin.com/in/wesleyskap"><img src="https://img.shields.io/badge/LinkedIn-Wesley%20Lima-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:wesleyskap@gmail.com"><img src="https://img.shields.io/badge/Email-wesleyskap%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
